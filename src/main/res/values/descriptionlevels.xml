@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level1">Выберите цифру, которая больше. Для победы наберите 5 очков.</string>
+    <string name="level1end">"Поздравляю уровень пройден!
+        Следующий уровень в разработке!"</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Gameslct">Выберите игру</string>
+    <string name="play">Играть</string>
+    <string name="settings">Настройки</string>
+    <string name="info">Инфо</string>
+    <string name="musicset">Музыка</string>
+    <string name="effectset">Звуки </string>
+    <string name="back">Назад </string>
+    <string name="namelvl">Уровень: </string>
+    <string name="namelvl1">Уровень 1 </string>
+    <string name="textcont">Продолжить </string>
+</resources>
