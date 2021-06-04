@@ -10,7 +10,7 @@ import android.view.WindowManager;
 import android.widget.Button;
 
 public class GameZone extends AppCompatActivity {
-    Button btngame1;
+    Button btngame1,backbtn5;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,5 +28,7 @@ public class GameZone extends AppCompatActivity {
                 }catch (Exception e){}
             }
         });
+
+
     }
 }
